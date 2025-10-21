@@ -10,6 +10,10 @@ A ComfyUI custom node that allows you to parse CSV files with positive and negat
 - Outputs positive prompt, negative prompt, and total row count
 - Navigate through rows using an index parameter
 
+## Sample Workflow
+
+![Sample Workflow](sample%20workflow%20screenshot.png)
+
 ## Installation
 
 1. Clone this repository into your ComfyUI custom_nodes directory:
