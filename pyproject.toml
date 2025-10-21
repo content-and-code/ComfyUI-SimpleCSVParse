@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-simple-csv-parse"
+description = "A ComfyUI custom node for parsing CSV files with positive and negative prompts"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/content-and-code/ComfyUI-SimpleCSVParse"
+
+[tool.comfy]
+PublisherId = "promptingpixels"
+DisplayName = "Simple CSV Parser"
+Icon = ""
